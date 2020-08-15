@@ -5,17 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>page 2</title>
-
+    <title>Document</title>
 </head>
 
-
-
-<h1>this is the second page</h1>
-<a href="1.html">first page</a>
-
 <body>
-
+    <div style="color: purple;font-size: 48px;font-family: cursive;font-weight: bold">aviral</div>
 </body>
 
 </html>

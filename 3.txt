@@ -5,27 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>page 3</title>
-
-    <style>
-        html,
-        body {
-            margin: 0
-        }
-
-
-
-        .myclass {
-            background: linear-gradient(red, green, orange);
-            height: 100vh;
-
-        }
-    </style>
-
+    <title>Document</title>
 </head>
 
 <body>
-    <div class="myclass">
+    <div style="background: blue;margin-bottom:16px;padding: 12px">
+        third program- line 1
+    </div>
+    <div style="background: blue;margin-bottom: 16px;padding: 12px">
+        third program- line 2
+    </div>
+    <div style="background: blue;padding: 12px">
+        third program- line 3
     </div>
 </body>
 

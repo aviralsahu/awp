@@ -1,23 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="6.css">
+</head>
 
-    <style>
-      html,
-      body {
-        margin: 0;
-      }
+<body>
 
-      .myclass {
-        background: linear-gradient(orange, whitesmoke, lightgreen);
-        height: 100vh;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="myclass"></div>
-  </body>
+    <div class="common-style">
+        external styling -aviral line 1
+
+    </div>
+    <div class="common-style">
+        external styling -aviral line 2
+
+    </div>
+    <div class="common-style">
+        external styling -aviral line 3
+
+    </div>
+</body>
+
 </html>
+...........................................................................................................................................
+
+css
+
+
+
+.common-style
+{
+background: blue;color: yellow;
+margin-bottom: 16px;padding: 12px;
+font-size: 32px;font-family: cursive;
+text-align: center;
+
+}
