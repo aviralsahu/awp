@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div style="color: aqua;background: yellow;border: tomato">color codr</div>
+    <div style="border: 5px solid red">border styling</div>
+    <h1 style="border: 5px solid blue;color: red">understanding color code and body styling</h1>
+</body>
+
+</html>
